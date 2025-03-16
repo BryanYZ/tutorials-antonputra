@@ -1,6 +1,6 @@
 locals {
-  project_id = "tutorial-446604"
-  region     = "us-central1"
+  project_id = ""
+  region     = ""
   apis = [
     "compute.googleapis.com",
     "container.googleapis.com",

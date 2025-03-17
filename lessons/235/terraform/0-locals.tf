@@ -1,6 +1,6 @@
 locals {
-  project_id = "gcp-zhu01-firewall-basic"
-  region     = "northamerica-northeast2"
+  project_id = ""
+  region     = ""
   apis = [
     "compute.googleapis.com",
     "container.googleapis.com",
